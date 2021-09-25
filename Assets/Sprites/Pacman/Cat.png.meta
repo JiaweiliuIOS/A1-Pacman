@@ -1,7 +1,43 @@
 fileFormatVersion: 2
-guid: abb536766751e1f468cc6bc4e7409566
+guid: ef639d3c98a04a64fad02164919ead3f
 TextureImporter:
   internalIDToNameTable:
+  - first:
+      213: 6101470820670944748
+    second: New Piskel (21)_0
+  - first:
+      213: 356441421261148631
+    second: New Piskel (21)_1
+  - first:
+      213: 6019841689268326024
+    second: New Piskel (21)_2
+  - first:
+      213: -3243541022150417374
+    second: New Piskel (21)_3
+  - first:
+      213: 884214485609521867
+    second: New Piskel (21)_4
+  - first:
+      213: -816770592220498760
+    second: New Piskel (21)_5
+  - first:
+      213: 3143119591027418669
+    second: New Piskel (21)_6
+  - first:
+      213: -5092847343721551636
+    second: New Piskel (21)_7
+  - first:
+      213: -3706289687617145347
+    second: New Piskel (21)_8
+  - first:
+      213: 5328716500085304414
+    second: New Piskel (21)_9
+  - first:
+      213: 718760601288294643
+    second: New Piskel (21)_10
+  - first:
+      213: 5526268012359537473
+    second: New Piskel (21)_11
   - first:
       213: -7232521027535748977
     second: Cat_0
@@ -20,6 +56,24 @@ TextureImporter:
   - first:
       213: 1054262377158069458
     second: Cat_5
+  - first:
+      213: -5790719290395572807
+    second: Cat_6
+  - first:
+      213: -1215474226491948769
+    second: Cat_7
+  - first:
+      213: 3291272260663919752
+    second: Cat_8
+  - first:
+      213: 5115001047623075895
+    second: Cat_9
+  - first:
+      213: 7319829036119299154
+    second: Cat_10
+  - first:
+      213: 2994892180473864510
+    second: Cat_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -64,7 +118,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 40
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,7 +167,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 12
-        y: 156
+        y: 412
         width: 84
         height: 72
       alignment: 0
@@ -134,7 +188,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 140
-        y: 156
+        y: 412
         width: 84
         height: 72
       alignment: 0
@@ -155,7 +209,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 260
-        y: 156
+        y: 412
         width: 92
         height: 72
       alignment: 0
@@ -176,7 +230,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 12
-        y: 28
+        y: 284
         width: 84
         height: 72
       alignment: 0
@@ -197,7 +251,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 140
-        y: 28
+        y: 284
         width: 84
         height: 72
       alignment: 0
@@ -218,7 +272,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 260
-        y: 28
+        y: 284
         width: 92
         height: 72
       alignment: 0
@@ -230,6 +284,132 @@ TextureImporter:
       bones: []
       spriteID: 2dcc09adb0e71ae00800000000000000
       internalID: 1054262377158069458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 156
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b548f56c7b33afa0800000000000000
+      internalID: -5790719290395572807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 156
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f110e4081a4c12fe0800000000000000
+      internalID: -1215474226491948769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 156
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88448f3eea2fcad20800000000000000
+      internalID: 3291272260663919752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 28
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73803553a522cf640800000000000000
+      internalID: 5115001047623075895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 28
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2541b7ae9b1459560800000000000000
+      internalID: 7319829036119299154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 28
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e316dbd029eff8920800000000000000
+      internalID: 2994892180473864510
       vertices: []
       indices: 
       edges: []
