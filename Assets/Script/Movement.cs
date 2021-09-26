@@ -11,7 +11,7 @@ public class Movement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //direction = transform.position;
+        
     }
 
     void Update()
@@ -36,8 +36,8 @@ public class Movement : MonoBehaviour
         }
 
         //Animation connected
-       // Vector2 dir = direction - (Vector2)transform.position;
-       // GetComponent<Animator>().SetFloat("DirX", dir.x);
+        //Vector2 dir = direction - (Vector2)transform.position;
+        //GetComponent<Animator>().SetFloat("DirX", dir.x);
         //GetComponent<Animator>().SetFloat("DirY", dir.y);
     }
     void move(){
