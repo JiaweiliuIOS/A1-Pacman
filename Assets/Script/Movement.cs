@@ -36,9 +36,9 @@ public class Movement : MonoBehaviour
         }
 
         //Animation connected
-        //Vector2 dir = direction - (Vector2)transform.position;
-        //GetComponent<Animator>().SetFloat("DirX", dir.x);
-        //GetComponent<Animator>().SetFloat("DirY", dir.y);
+        Vector2 dir = direction - (Vector2)transform.position;
+        GetComponent<Animator>().SetFloat("DirX", dir.x);
+        GetComponent<Animator>().SetFloat("DirY", dir.y);
     }
     void move(){
         transform.localPosition += (Vector3)(direction * speed) * Time.deltaTime;
